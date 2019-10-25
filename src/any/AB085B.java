@@ -2,7 +2,7 @@ package any;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class pa {
+public class AB085B {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
